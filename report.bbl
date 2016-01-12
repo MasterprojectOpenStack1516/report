@@ -1,0 +1,48 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{BBF{\etalchar{+}}15}
+
+\bibitem[ALRL04]{laprie}
+A.~Avizienis, J.-C. Laprie, B.~Randell, and C.~Landwehr.
+\newblock Basic concepts and taxonomy of dependable and secure computing.
+\newblock {\em Dependable and Secure Computing, IEEE Transactions on}, pages
+  11--33, 2004.
+\newblock Available at
+  \url{http://www.computer.org/csdl/trans/tq/2004/01/q0011.pdf}.
+
+\bibitem[Arn14]{swift}
+Joe Arnold.
+\newblock {\em OpenStack Swift - Using, Administering, and Developing for Swift
+  Object Storage}.
+\newblock O'Reilly Media, 2014.
+
+\bibitem[BBF{\etalchar{+}}15]{mp14}
+Matthias Bastian, Sebastian Brueckner, Kai Fabian, Michael Hopstock, Dimitri
+  Korsch, and Daniel Stelter-Gliese.
+\newblock Cloud computing with openstack, 2015.
+
+\bibitem[JSS{\etalchar{+}}13]{Ju:2013:FRO:2523616.2523622}
+Xiaoen Ju, Livio Soares, Kang~G. Shin, Kyung~Dong Ryu, and Dilma Da~Silva.
+\newblock On fault resilience of openstack.
+\newblock In {\em Proceedings of the 4th Annual Symposium on Cloud Computing},
+  SOCC '13, pages 2:1--2:16, New York, NY, USA, 2013. ACM.
+\newblock Available at \url{http://doi.acm.org/10.1145/2523616.2523622}.
+
+\bibitem[Kol14]{kollarova}
+Martina Kollárová.
+\newblock Fault injection testing of openstack.
+\newblock Diplomová práce, Masarykova univerzita, Fakulta informatiky, Brno,
+  2014.
+\newblock Available at \url{http://is.muni.cz/th/325503/fi_m/}.
+
+\bibitem[LAK92]{Laprie:1992:DBC:573776}
+J.C.~C. Laprie, A.~Avizienis, and H.~Kopetz, editors.
+\newblock {\em Dependability: Basic Concepts and Terminology}.
+\newblock Springer-Verlag New York, Inc., Secaucus, NJ, USA, 1992.
+
+\bibitem[Ten14]{teng}
+Qiming Teng.
+\newblock Enhancing high availability in context of openstack, 2014.
+\newblock Available at
+  \url{https://www.openstack.org/summit/openstack-summit-atlanta-2014/session-videos/presentation/enhancing-high-availability-in-context-of-openstack}.
+
+\end{thebibliography}

@@ -1,0 +1,38 @@
+\BOOKMARK [1][-]{section.1}{Dependable Cloud Computing with OpenStack }{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work }{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{OpenStack Installation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Evaluating OpenStack Dependability}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Dependability in OpenStack }{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{The Term Dependability and Foundations}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Applying Dependability to OpenStack}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{OpenStack Test Environment }{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Existing OpenStack Installation Possibilities}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Specifying our own OpenStack Environment}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Automated Installation of OpenStack }{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{How to Install OpenStack using our System}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Creating the Virtual Environment}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Installing OpenStack on Virtual Machines with Ansible}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Running Dependability Experiments }{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{How to Run the Experiments}{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Experiment Results}{section.6}% 17
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Experiment 1: Control Node crash}{subsection.6.2}% 18
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Experiment 2: Memchached Service Loss of Data}{subsection.6.2}% 19
+\BOOKMARK [3][-]{subsubsection.6.2.3}{Experiment 3: Compute Nodes Unavailable}{subsection.6.2}% 20
+\BOOKMARK [3][-]{subsubsection.6.2.4}{Experiment 4: Object Storage Crash}{subsection.6.2}% 21
+\BOOKMARK [1][-]{section.7}{Conclusions and Future Work }{}% 22
+\BOOKMARK [1][-]{section*.6}{References}{}% 23
+\BOOKMARK [1][-]{appendix.A}{Code Documentation}{}% 24
+\BOOKMARK [2][-]{subsection.A.1}{Folder Structure}{appendix.A}% 25
+\BOOKMARK [2][-]{subsection.A.2}{Creation of Virtual Machines}{appendix.A}% 26
+\BOOKMARK [3][-]{subsubsection.A.2.1}{Installation of tools}{subsection.A.2}% 27
+\BOOKMARK [3][-]{subsubsection.A.2.2}{SSH Keys}{subsection.A.2}% 28
+\BOOKMARK [3][-]{subsubsection.A.2.3}{Networks}{subsection.A.2}% 29
+\BOOKMARK [3][-]{subsubsection.A.2.4}{VM Images}{subsection.A.2}% 30
+\BOOKMARK [3][-]{subsubsection.A.2.5}{Configuration of Ansible}{subsection.A.2}% 31
+\BOOKMARK [2][-]{subsection.A.3}{OpenStack Installation with Ansible}{appendix.A}% 32
+\BOOKMARK [2][-]{subsection.A.4}{Snapshots}{appendix.A}% 33
+\BOOKMARK [2][-]{subsection.A.5}{Dependability Experiments}{appendix.A}% 34
+\BOOKMARK [3][-]{subsubsection.A.5.1}{Inner Workings of the Memcache Flush Experiment}{subsection.A.5}% 35
+\BOOKMARK [3][-]{subsubsection.A.5.2}{Output of the experiments}{subsection.A.5}% 36
+\BOOKMARK [3][-]{subsubsection.A.5.3}{Creating Dependability Experiments}{subsection.A.5}% 37
+\BOOKMARK [2][-]{subsection.A.6}{Workarounds for Bugs}{appendix.A}% 38

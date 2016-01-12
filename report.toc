@@ -1,0 +1,39 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Dependable Cloud Computing with OpenStack {\textbf {\relax \fontsize {6}{7}\selectfont \kern .5em (JE, SK, NK)}}}{1}{section.1}
+\contentsline {section}{\numberline {2}Related Work {\textbf {\relax \fontsize {6}{7}\selectfont \kern .5em (JE, SK, NK)}}}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}OpenStack Installation}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Evaluating OpenStack Dependability}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}Dependability in OpenStack {\textbf {\relax \fontsize {6}{7}\selectfont \kern .5em (JE, NK)}}}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Term Dependability and Foundations}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Applying Dependability to OpenStack}{5}{subsection.3.2}
+\contentsline {section}{\numberline {4}OpenStack Test Environment {\textbf {\relax \fontsize {6}{7}\selectfont \kern .5em (JE, SK, NK)}}}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Existing OpenStack Installation Possibilities}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Specifying our own OpenStack Environment}{7}{subsection.4.2}
+\contentsline {section}{\numberline {5}Automated Installation of OpenStack {\textbf {\relax \fontsize {6}{7}\selectfont \kern .5em (SK, NK)}}}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}How to Install OpenStack using our System}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Creating the Virtual Environment}{10}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Installing OpenStack on Virtual Machines with Ansible}{11}{subsection.5.3}
+\contentsline {section}{\numberline {6}Running Dependability Experiments {\textbf {\relax \fontsize {6}{7}\selectfont \kern .5em (JE, SK)}}}{13}{section.6}
+\contentsline {subsection}{\numberline {6.1}How to Run the Experiments}{13}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Experiment Results}{13}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Experiment 1: Control Node crash}{13}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Experiment 2: Memchached Service Loss of Data}{15}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}Experiment 3: Compute Nodes Unavailable}{15}{subsubsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6.2.4}Experiment 4: Object Storage Crash}{16}{subsubsection.6.2.4}
+\contentsline {section}{\numberline {7}Conclusions and Future Work {\textbf {\relax \fontsize {6}{7}\selectfont \kern .5em (JE, SK, NK)}}}{18}{section.7}
+\contentsline {section}{References}{19}{section*.6}
+\contentsline {section}{\numberline {A}Code Documentation}{20}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Folder Structure}{20}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Creation of Virtual Machines}{21}{subsection.A.2}
+\contentsline {subsubsection}{\numberline {A.2.1}Installation of tools}{21}{subsubsection.A.2.1}
+\contentsline {subsubsection}{\numberline {A.2.2}SSH Keys}{21}{subsubsection.A.2.2}
+\contentsline {subsubsection}{\numberline {A.2.3}Networks}{21}{subsubsection.A.2.3}
+\contentsline {subsubsection}{\numberline {A.2.4}VM Images}{21}{subsubsection.A.2.4}
+\contentsline {subsubsection}{\numberline {A.2.5}Configuration of Ansible}{22}{subsubsection.A.2.5}
+\contentsline {subsection}{\numberline {A.3}OpenStack Installation with Ansible}{22}{subsection.A.3}
+\contentsline {subsection}{\numberline {A.4}Snapshots}{23}{subsection.A.4}
+\contentsline {subsection}{\numberline {A.5}Dependability Experiments}{24}{subsection.A.5}
+\contentsline {subsubsection}{\numberline {A.5.1}Inner Workings of the Memcache Flush Experiment}{24}{subsubsection.A.5.1}
+\contentsline {subsubsection}{\numberline {A.5.2}Output of the experiments}{25}{subsubsection.A.5.2}
+\contentsline {subsubsection}{\numberline {A.5.3}Creating Dependability Experiments}{25}{subsubsection.A.5.3}
+\contentsline {subsection}{\numberline {A.6}Workarounds for Bugs}{25}{subsection.A.6}
